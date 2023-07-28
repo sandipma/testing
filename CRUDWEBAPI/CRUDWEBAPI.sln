@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDWEBAPI", "CRUDWEBAPI.csproj", "{8F46534A-9BF5-463C-9F76-0308FBA2AEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F46534A-9BF5-463C-9F76-0308FBA2AEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F46534A-9BF5-463C-9F76-0308FBA2AEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F46534A-9BF5-463C-9F76-0308FBA2AEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F46534A-9BF5-463C-9F76-0308FBA2AEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350846C7-0553-47D0-A2F9-5AE78D4FA7CB}
+	EndGlobalSection
+EndGlobal
