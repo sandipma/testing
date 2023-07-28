@@ -7,7 +7,7 @@ namespace CRUDWEBAPI.Areas.HelpPage.ModelDescriptions
     /// </summary>
     public abstract class ModelDescription
     {
-        public string Documentation { get; set; }
+        public string Documentatione { get; set; }
 
         public Type ModelType { get; set; }
 
