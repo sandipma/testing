@@ -11,6 +11,6 @@ namespace CRUDWEBAPI.Areas.HelpPage.ModelDescriptions
 
         public Type ModelType { get; set; }
 
-        public string Name { get; set; }
+        public string Namewewe { get; set; }
     }
 }
